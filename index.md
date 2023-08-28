@@ -4,6 +4,9 @@ layout: default
 
 I am a 2nd year master student at Stanford University, electrical engineering.  I completed my undergraduate degree in electrical engineering at National Taiwan University.  Previously, I worked as a deep learning intern at VIA Technologies Inc., developing bird-eye view perception systems. I am interested in machine learning and NLP.
 
+[Email](mailto: ying1029@stanford.edu)/[CV](assets/resume-chihyingliu.pdf)/[Linkedin](https://www.linkedin.com/in/chih-ying-liu-b7191922b/)/[Github](https://github.com/cyingliu)
+
+
 ## Publication
 
 _Zih-Ching Chen, Allen Fu, Chih-Ying Liu, Hung-yi Lee, and Shang-Wen Li, “Exploring Efficient-tuning Methods in Self-supervised Speech Models”, IEEE Spoken Language Technology Workshop, 2022_
